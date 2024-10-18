@@ -1,0 +1,15 @@
+.hero-text p {
+    color: rgb(246, 245, 244); /* Change "Grab your ticket" text to orange */
+}
+
+.nav-login-btn, .nav-signup-btn {
+    color: rgb(240, 237, 233); /* Change LOGIN and SIGNUP text to orange */
+}
+
+.performers h2:nth-of-type(2) {
+    color: rgb(250, 250, 249); /* Change "The most famous artist of the year" text to orange */
+}
+
+.performers h2:nth-of-type(2) {
+    color: rgb(250, 249, 247); /* Change "The most famous artist of the year" text to orange */
+}

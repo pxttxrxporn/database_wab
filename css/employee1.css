@@ -1,0 +1,54 @@
+
+    body {
+        background-color: #484852; /* Set overall background to blue */
+        color: #fff; /* Default text color to white */
+    }
+    .header {
+        background-color: #020712;
+        text-align: center;
+        font-size: 35px;
+        color: #fff; /* Keep header text white */
+        padding: 20px;
+    }
+    .container {
+        margin-top: 20px;
+    }
+    .nav-con {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .nav-login-btn, .nav-signup-btn {
+        color: white; /* Keep navigation text white */
+        margin: 0 10px;
+    }
+    .dashboard-card {
+        border: 1px solid #fff; /* Set card border to white */
+        border-radius: 5px;
+        padding: 15px;
+        margin: 10px;
+        text-align: center;
+        background-color: #7f7979d7; /* Set card background to dark blue */
+        color: #fff; /* Set card text color to white */
+    }
+    .dashboard-card h3 {
+        color: #fff; /* Set card headings to white */
+    }
+    h1 {
+        color: #fff; /* Set the main heading to white */
+    }
+    nav ul {
+        list-style: none;
+        display: flex;
+        gap: 20px;
+    }
+    .sponsors ul {
+        list-style: none;
+        display: flex;
+        gap: 20px;
+    }
+    nav a {
+        text-decoration: none;
+        color: #f9f8f8;
+        font-weight: bold;
+    }
